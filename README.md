@@ -1,33 +1,22 @@
-# Greeting Card
+# Project 1: Greeting Card
 
-## Project Overview
-In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
+* Author: Caden Crites
+* Class:  AP Compute Science Principles A
+* Semester: Fall 2022
 
-## Objectives
+## Overview
 
-- [ ] Create HTML elements
-- [ ] Use JavaScript to manipulate HTML elements
-- [ ] Use variables to manage data
+This program creates a greeting card with a snowman, music and the words "Merry Christmas" with a smile on the end. (:D)
 
-## Specifications
+## Compiling and Using
+You can access this project and all of its content through this link https://timberlinecs.github.io/project-1-greeting-card-CadenCrites/ and press the play button in the bottom left of the screen. The required files for this program to run correctly are the index.html, App.js, and TheFatRat_Unity.mp3 files.
+## Discussion
 
-Create a Greeting Card on an HTML page.  Your Greeting Card should include at least 10 different HTML elements.  You must use JavaScript (only) to manipulate your elements in such a way that they come together to clearly resemble a picture.   Your Greeting Card should include a variety of colors (at least 5), text, and music. 
+One problem I ran into while creating this program were positioning objects. This took a lot of guessing and checking. Creating my divs and using .style to edit the elements was an easy process with the copy and paste tool. The process I went through to make this program was develop an idea, make a background and find a song I wanted to make, then make a snowman, then add text, and last make a readme about it. The most challenging part of this project was fiding transformatons to the elements that I hadn't known yey.
+## Testing
 
-An example of a Greeting Card that meets all the requirements is provided here ([GreetingCard.jpg](GreetingCard.jpg))
+The only testing I had to do in this project was making sure the elements display correctly to show the image I was trying to create and see if the audio played correctly.
+## Sources used
 
-## Your Tasks
+The only source I used was https://myfreemp3.to which I used to find audio to add to my greeting card
 
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  See the resources below for how to embed audio, 
-
-	* [https://www.w3schools.com/html/html5_audio.asp](https://www.w3schools.com/html/html5_audio.asp)
-	* [https://youtu.be/1Bl2WVQGfiE](https://youtu.be/1Bl2WVQGfiE)
-
-- [ ] Document your code thoroughly as you go with comments
-- [ ] Complete the required README using specified guidelines
-
-## Grade your project before you submit
-
-- [ ] Before you submit your project, grade your project against the criteria below. 
-	[Rubric.md](Rubric.md)
